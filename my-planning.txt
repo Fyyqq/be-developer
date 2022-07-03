@@ -3,3 +3,5 @@
  - GITHUB
  - SASS
  - BOOSTRAP
+ - NODE JS
+ - REACT
